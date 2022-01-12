@@ -2,11 +2,11 @@
 
 Yfirferð á [node.js](https://nodejs.org/)
 
-* [Kynning](1.nodejs.md), [vídeó (xx:yy)](https://youtu.be/)
-* [Atburðir](2.events.md), [vídeó (xx:yy)](https://youtu.be/)
-* [APIs](3.apis.md), [vídeó (xx:yy)](https://youtu.be/)
-* [Filesystem](4.fs.md), [vídeó (xx:yy)](https://youtu.be/)
-* [Promises](5.promises.md), [vídeó (xx:yy)](https://youtu.be/)
+* [Kynning](1.nodejs.md), [vídeó (10:51)](https://youtu.be/kyEApq_f0QU)
+* [Atburðir](2.events.md), [vídeó (07:53)](https://youtu.be/2WfOYzjl7es)
+* [APIs](3.apis.md), [vídeó (06:41)](https://youtu.be/ePPZ73RI4l8)
+* [Filesystem](4.fs.md), [vídeó (08:59)](https://youtu.be/MNyMhSircW4)
+* [Promises](5.promises.md), [vídeó (09:11)](https://youtu.be/nK3FoyxdzfA)
 
 ## Dæmi
 
