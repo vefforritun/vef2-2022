@@ -42,7 +42,7 @@ Fyrirlestrar eru haldnir 15:00-17:20 á miðvikudögum.
 
 Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálfir fara í nánari yfirferð á mikilvægum atriðum úr fyrirlestrum, yfirferð á dæmum og umræður.
 
-[Upptökur af öllum fyrirlestrum má nálgast á YouTube](https://www.youtube.com/playlist?list=).
+[Upptökur af öllum fyrirlestrum má nálgast á YouTube](https://www.youtube.com/playlist?list=PLRj-ccg8iozwBXaSNawCRcSNO7hZDb7Di).
 
 ### Vikur
 
