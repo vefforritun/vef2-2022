@@ -46,7 +46,7 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 
 ### Vikur
 
-* [Vika 1, 10—16. janúar 2021](vikur/01/)
+* [Vika 1, 10—16. janúar 2021](vikur/01/vika-01.md)
   * Kynning; upprifjun úr vef1; node.js; einingar
 
 ## Verkefni
