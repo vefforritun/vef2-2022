@@ -1,8 +1,8 @@
 
 # Einingar
 
-* [npm](1.npm.md), [vídeó (xx:yy)](https://youtu.be/)
-* [Einingar](2.modules.md), [vídeó (xx:yy)](https://youtu.be/)
+* [npm](1.npm.md), [vídeó (10:48)](https://youtu.be/5Ev1hhl_P3Y)
+* [Einingar](2.modules.md), [vídeó (09:41)](https://youtu.be/JcKQz0zDEvY)
 
 ## Dæmi
 

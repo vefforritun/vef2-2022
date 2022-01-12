@@ -1,7 +1,8 @@
 # Kynning
 
-* [Kynning](1.kynning.md), [vídeó (xx:yy)](https://youtu.be/)
-* [Fyrirlestrar og námsefni](2.namsefni.md), [vídeó (xx:yy)](https://youtu.be/)
+* [Kynning](1.kynning.md), [vídeó (24:12)](https://youtu.be/7z1CPfv3FIc)
+* [Fyrirlestrar og námsefni](2.namsefni.md), [vídeó (14:10)](https://youtu.be/iJQuJeSqI90)
+* [Yfirferð á efni úr vefforritun 1, vídeó (07:51)](https://youtu.be/WKPvttxOWZ0)
 
 ## Vefforritun 1
 
