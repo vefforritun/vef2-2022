@@ -1,10 +1,10 @@
-# Vika 1, 10.–16. janúar janúar 2022
+# Vika 1, 10.–16. janúar 2022
 
 ## Námsefni
 
-* [Kynning og efni úr vefforritun 1](../namsefni/kynning/readme.md)
-* [node.js](../namsefni/nodejs/readme.md)
-* [Einingar](../namsefni/modules/readme.md)
+* [Kynning og efni úr vefforritun 1](../namsefni/01.kynning/readme.md)
+* [node.js](../namsefni/02.nodejs/readme.md)
+* [Einingar](../namsefni/03.modules/readme.md)
 
 ## Fyrirlestrar
 
