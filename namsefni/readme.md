@@ -14,3 +14,6 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp, eða prófa meðfram 
 * [Vika 2, partur 1, vídeó (39:20)](https://youtu.be/ow9NdluaWCs)
 * [Vika 2, partur 2, vídeó ()](https://youtu.be/hP3Wq3e9xrg)
 * [Vika 2, partur 3, vídeó (33:35)](https://youtu.be/wRCYwkuBlaY)
+* [Node atburðir & straumar](./06.events-streams/readme.md)
+* [Form](./07.form/readme.md)—Form, gögn og validation
+* [Heroku](./08.heroku/readme.md)—Heroku
