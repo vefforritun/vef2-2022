@@ -16,8 +16,7 @@
 * [multer.js](daemi/07.multer.js)
 * [data.js](daemi/08.data.js)
 * [data-validator.js](daemi/09.data-validator.js)
-* [data-sanitize.js](daemi/10.data-sanitize.js)
-* [post-redirect-get.js](daemi/11.post-redirect-get.js)
+* [post-redirect-get.js](daemi/10.post-redirect-get.js)
 
 ## Aukaefni
 
