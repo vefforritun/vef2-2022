@@ -15,23 +15,23 @@
 
 * [http-methods.js](daemi/http/01.http-methods.js)
 * [content-type.js](daemi/http/02.content-type.js)
-* [compression.js](daemi/http/03.compression.js)
-* [download.js](daemi/http/04.download.js)
+* [download.js](daemi/http/03.download.js)
+* [compression.js](daemi/http/04.compression.js)
 * [url.js](daemi/http/05.url.js)
 
 ### Express dæmi
 
-* [hello-world.js](daemi/express/01.hello-world.js)
-* [request.js](daemi/express/02.request.js)
-* [response.js](daemi/express/03.response.js)
-* [subapp.js](daemi/express/04.subapp.js)
-* [router-app.js](daemi/express/05.router-app.js)
-* [router.js](daemi/express/05.router.js)
-* [middleware.js](daemi/express/06.middleware.js)
-* [error-handling.js](daemi/express/07.error-handling.js)
-* [static.js](daemi/express/08.static.js)
-* [template-ejs.js](daemi/express/09.template-ejs.js)
-* [async-await.js](daemi/express/10.async-await.js)
+* [hello-world.js](daemi/01.hello-world.js)
+* [request.js](daemi/02.request.js)
+* [response.js](daemi/03.response.js)
+* [subapp.js](daemi/04.subapp.js)
+* [router-app.js](daemi/05.router-app.js)
+* [router.js](daemi/05.router.js)
+* [middleware.js](daemi/06.middleware.js)
+* [error-handling.js](daemi/07.error-handling.js)
+* [static.js](daemi/08.static.js)
+* [template-ejs.js](daemi/09.template-ejs.js)
+* [async-await.js](daemi/10.async-await.js)
 
 ## Aukaefni
 
