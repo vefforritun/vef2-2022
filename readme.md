@@ -50,9 +50,9 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
   * Kynning; upprifjun úr vef1; node.js; einingar
 * [Vika 2, 17—23. janúar 2021](vikur/vika-02.md)
   * Express, HTTP
-* [Vika 1, 24—30. janúar 2021](vikur/vika-03.md)
+* [Vika 3, 24—30. janúar 2021](vikur/vika-03.md)
   * Heroku; Form
-* [Vika 1, 31. janúar—6. febrúar 2021](vikur/vika-04.md)
+* [Vika 4, 31. janúar—6. febrúar 2021](vikur/vika-04.md)
   * postgres; cookies & sessions
 
 ## Verkefni
