@@ -8,8 +8,8 @@
 
 ## Fyrirlestrar
 
-* [Vefforritun 2, 2022: Vika 1, dæmi #1, vídeó (27:00)](https://youtu.be/7Jr3DiGF1F0)
-* [Vefforritun 2, 2022: Vika 1, dæmi #2, vídeó(32:00)](https://youtu.be/9pMxv9YcXDI)
+* [Vika 1, dæmi #1, vídeó (27:00)](https://youtu.be/7Jr3DiGF1F0)
+* [Vika 1, dæmi #2, vídeó(32:00)](https://youtu.be/9pMxv9YcXDI)
 
 ## Verkefni
 

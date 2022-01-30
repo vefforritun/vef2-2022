@@ -8,9 +8,9 @@
 
 ## Fyrirlestrar
 
-* [Vefforritun 2, 2022: Vika 3, partur 1, vídeó (37:11)](https://youtu.be/rS7zgfk-BmU)
-* [Vefforritun 2, 2022: Vika 3, partur 2, vídeó (44:00)](https://youtu.be/wDgwk70tiag)
-* [Vefforritun 2, 2022: Vika 3, partur 3, vídeó (30:40)](https://youtu.be/rS7zgfk-BmU)
+* [Vika 3, partur 1, vídeó (37:11)](https://youtu.be/rS7zgfk-BmU)
+* [Vika 3, partur 2, vídeó (44:00)](https://youtu.be/wDgwk70tiag)
+* [Vika 3, partur 3, vídeó (30:40)](https://youtu.be/rS7zgfk-BmU)
 
 ## Verkefni
 
@@ -18,7 +18,3 @@
 * [ ] Skrá sig og mæta í fyrsta dæmatíma, sjá Canvas
 * [ ] Setja upp Heroku aðgang
   * [ ] Deploya verkefni á Herouk
-
-## Aukaefni
-
-Efni sem nefnt var og/eða skoðað í fyrirlestri:

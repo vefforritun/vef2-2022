@@ -25,7 +25,7 @@ app.post('/post', (req, res) => {
 
   // Ef við afkommentum næstu síðu og refreshum í vafra munum við fá upp
   // „confirm form resubmission“ frá vafra
-  return res.send('Gögn móttekin!');
+  // return res.send('Gögn móttekin!');
 
   // Birtum ekki niðurstöðu, heldur redirectum á þakkar síðu
   res.redirect('/thanks');

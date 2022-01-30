@@ -29,7 +29,7 @@ app.use((req, res, next) => {
   // Nú sendist allt skjalið, en þetta er ekki nægilega góð
   // lausn til að geta unnið með það á einhvern góðan máta
   const chunks = [];
-  req.on('data', chunk => chunks.push(chunk));
+  req.on('data', (chunk) => chunks.push(chunk));
   req.on('end', () => {
     req.body = chunks.join();
     next();

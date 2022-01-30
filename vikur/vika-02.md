@@ -9,9 +9,9 @@
 
 [Unnið í bloggi](https://github.com/vefforritun/vef2-2022-blog-daemi)!
 
-* [Vefforritun 2, 2022: Vika 2, partur 1, vídeó (39:20)](https://youtu.be/ow9NdluaWCs)
-* [Vefforritun 2, 2022: Vika 2, partur 2, vídeó ()](https://youtu.be/hP3Wq3e9xrg)
-* [Vefforritun 2, 2022: Vika 2, partur 3, vídeó (33:35)](https://youtu.be/wRCYwkuBlaY)
+* [Vika 2, partur 1, vídeó (39:20)](https://youtu.be/ow9NdluaWCs)
+* [Vika 2, partur 2, vídeó ()](https://youtu.be/hP3Wq3e9xrg)
+* [Vika 2, partur 3, vídeó (33:35)](https://youtu.be/wRCYwkuBlaY)
 
 ## Verkefni
 
