@@ -7,9 +7,8 @@
 
 ## Fyrirlestrar
 
-* [Vika 4, partur 1, vídeó ()](https://youtu.be/)
-* [Vika 4, partur 2, vídeó ()](https://youtu.be/)
-* [Vika 4, partur 3, vídeó ()](https://youtu.be/)
+* [Vika 4, partur 1, vídeó (33:06)](https://youtu.be/a9hbGDrtzS8)
+* [Vika 4, partur 2, vídeó (52:15)](https://youtu.be/Hs46m8cl8f4)
 
 ## Verkefni
 

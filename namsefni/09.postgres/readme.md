@@ -4,6 +4,7 @@
 * [PostgreSQL syntax](2.syntax.md), [vídeó (09:35)](https://youtu.be/HmxFm14mTaU)
 * [CRUD](3.crud.md), [vídeó (09:25)](https://youtu.be/Ri3cJs1ev4w)
 * [PostgreSQL og Node.js](4.postgres-node.md), [vídeó (12:59)](https://youtu.be/65Zg-vLOt04)
+* [Gagnamódel](5.datamodel.md)
 
 Setjið upp og farið yfir skjalið „[Að setja upp og tengjast Postgres](./postgres-tenging.md)“ og staðfestið að þið getið tengst og unnið með gagnagrunn.
 

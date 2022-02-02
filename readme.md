@@ -60,6 +60,10 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 * [Verkefni 1](https://github.com/vefforritun/vef2-2022-v1)
   * Sett fyrir 19. janúar
   * Skilist 4. febrúar
+* [Verkefni 2](https://github.com/vefforritun/vef2-2022-v2)
+  * Sett fyrir 2. febrúar
+  * Skilist 18. febrúar
+  * [Kynning í fyrirlestri](https://youtu.be/pLwY4LiR6gc)
 
 ## Hópverkefni
 
