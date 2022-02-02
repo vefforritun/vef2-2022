@@ -20,3 +20,5 @@
 ## Aukaefni
 
 Efni sem nefnt var og/eða skoðað í fyrirlestri:
+
+* [The Problem with Time & Timezones - Computerphile](https://www.youtube.com/watch?v=-5wpm-gesOY)
