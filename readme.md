@@ -12,17 +12,17 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfangagnum vefforritun 2
 | 4    | 31. janúar  | postgres; cookies & sessions | Verkefni #2    | Verkefni #1    |
 | 5    | 7. febrúar  | Notendaumsjón; Öryggi        | Hópverkefni #1 |                |
 | 6    | 14. febrúar | Vefþjónustur                 | Verkefni #3    | Verkefni #2    |
-| 7    | 21. febrúar | cache, redis; TypeScript     |                |                |
-| 8    | 28. febrúar | Framenda framework, React    | Verkefni #4    | Verkefni #3    |
-| 9    | 7. mars     | React                        | Hópverkefni #2 | Hópverkefni #1 |
-| 10   | 14. mars    | React; Next.js               | Verkefni #5    | Verkefni #4    |
-| 11   | 21. mars    | GraphQL                      |                |                |
-| 12   | 28. mars    | Önnur bakenda framework      | Verkefni #6    | Verkefni #5    |
-| 13   | 4. apríl    | Önnur framenda framework     |                | Hópverkefni #2 |
-| 14   | 11. apríl   | Buffer                       |                | Verkefni #6    |
-| 15   | 18. apríl   | **Páskafrí**                 |                |                |
+| 7    | 21. febrúar | Frí                          |                |                |
+| 8    | 28. febrúar | cache, redis; TypeScript     |                | Verkefni #3    |
+| 9    | 7. mars     | Framenda framework, React    | Verkefni #4    | Hópverkefni #1 |
+| 10   | 14. mars    | React                        | Hópverkefni #2 |                |
+| 11   | 21. mars    | Next.js                      | Verkefni #5    | Verkefni #4    |
+| 12   | 28. mars    | GraphQL                      |                |                |
+| 13   | 4. apríl    | Önnur bakenda framework      | Verkefni #6    | Verkefni #5    |
+| 14   | 11. apríl   | Önnur framenda framework     |                | Hópverkefni #2 |
+| 15   | 18. apríl   | **Páskafrí**                 |                | Verkefni #6    |
 
-Nánar er [fjallað um kennsluáætlun í viku 1](vikur/01).
+Nánar er [fjallað um kennsluáætlun í viku 1](vikur/vika-01.md).
 
 ## Vikublöð
 
@@ -46,14 +46,22 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 
 ### Vikur
 
-* [Vika 1, 10—16. janúar 2021](vikur/vika-01.md)
+* [Vika 1, 10—16. janúar 2022](vikur/vika-01.md)
   * Kynning; upprifjun úr vef1; node.js; einingar
-* [Vika 2, 17—23. janúar 2021](vikur/vika-02.md)
+* [Vika 2, 17—23. janúar 2022](vikur/vika-02.md)
   * Express, HTTP
-* [Vika 3, 24—30. janúar 2021](vikur/vika-03.md)
+* [Vika 3, 24—30. janúar 2022](vikur/vika-03.md)
   * Heroku; Form
-* [Vika 4, 31. janúar—6. febrúar 2021](vikur/vika-04.md)
+* [Vika 4, 31. janúar—6. febrúar 2022](vikur/vika-04.md)
   * postgres; cookies & sessions
+* [Vika 5, 7.–13. febrúar 2022](vikur/vika-05.md)
+  * Notendaumsjón; Öryggi
+* [Vika 6, 14.–20. febrúar 2022](vikur/vika-06.md)
+  * Vefþjónustur
+* Vika 7, 21.–27. febrúar 2022
+  * Frí
+* [Vika 8, 27. febrúar–6. mars 2022](vikur/vika-08.md)
+  * cache, redis; TypeScript
 
 ## Verkefni
 
@@ -64,8 +72,13 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
   * Sett fyrir 2. febrúar
   * Skilist 18. febrúar
   * [Kynning í fyrirlestri](https://youtu.be/pLwY4LiR6gc)
+* [Verkefni 3](https://github.com/vefforritun/vef2-2022-v3)
+  * Sett fyrir 16. febrúar
+  * Skilist 4. mars
+  * [Kynning í fyrirlestri](https://youtu.be/)
 
 ## Hópverkefni
 
-* Hópverkefni 1
-  * Sett fyrir um miðjan febrúar
+* [Hópverkefni 1](https://github.com/vefforritun/vef2-2022-h1)
+  * Sett fyrir 9. febrúar
+  * Skilist 13. mars

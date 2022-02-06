@@ -1,0 +1,12 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es5",
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+  },
+  "include": [
+    "index.ts"
+  ],
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}
