@@ -13,7 +13,7 @@
 
 ## Verkefni
 
-* [ ] Skil á verkefni 2
+
 
 ## Aukaefni
 

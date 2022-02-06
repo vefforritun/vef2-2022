@@ -12,6 +12,7 @@
 
 ## Verkefni
 
+* [ ] Skil á verkefni 2
 * [ ] Byrja á verkefni 3
 
 ## Aukaefni
