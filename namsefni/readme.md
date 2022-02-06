@@ -22,3 +22,12 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp, eða prófa meðfram 
 * [Vika 3, partur 3, vídeó (30:40)](https://youtu.be/rS7zgfk-BmU)
 * [PostgreSQL](./09.postgres/readme.md)
 * [Cookies og session](./10.cookies-session/readme.md)
+* [Vika 4, partur 1, vídeó (33:06)](https://youtu.be/a9hbGDrtzS8)
+* [Vika 4, partur 2, vídeó (52:15)](https://youtu.be/Hs46m8cl8f4)
+* [Notendaumsjón](./11.users/readme.md)
+* [Öryggi](./12.security/readme.md)
+* Vika 5, fyrirlestur 9. febrúar
+* [Vefþjónustur](./13.webservices/readme.md) _efni í vinnslu_
+* Vika 6, fyrirlestur 16. febrúar
+* [cache og redis](./14.cache-redis/readme.md) _efni í vinnslu_
+* [TypeSccript](./15.typescript/readme.md) _efni í vinnslu_

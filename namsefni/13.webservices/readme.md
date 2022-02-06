@@ -1,5 +1,7 @@
 # Vefþjónustur
 
+Þetta efni er í vinnslu.
+
 * [Vefþjónustur](1.web-services.md)
 * [REST](2.rest.md)
 * [REST og Express](3.rest-express.md)
@@ -7,10 +9,10 @@
 * [Paging](5.paging.md)
 * [Vefþjónustur og gagnagrunnar](6.ws-sql.md)
 * [Leit](7.search.md)
-* [Gagnamódel](7.ws-datamodel.md)
-* [Auðkenning](8.ws-auth.md)
-* [`fetch`](9.ws-fetch.md)
-* [CORS](10.cors.md)
+* [Gagnamódel](8.ws-datamodel.md)
+* [Auðkenning](9.ws-auth.md)
+* [`fetch`](10.ws-fetch.md)
+* [CORS](11.cors.md)
 
 ## Dæmi
 
