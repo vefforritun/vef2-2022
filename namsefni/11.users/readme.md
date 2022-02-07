@@ -1,8 +1,8 @@
 # Notendaumsjón
 
-* [Auðkenning](1.authentication.md)
-* [Basic authentication](2.basic-auth.md)
-* [Passport](3.passport.md)
+* [Auðkenning](1.authentication.md), [vídeó (04:32)](https://youtu.be/WGzY6sQixvk)
+* [Basic authentication](2.basic-auth.md), [vídeó (03:43)](https://youtu.be/SVbjPwcPgTE)
+* [Passport](3.passport.md), [vídeó (16:15)](https://youtu.be/_esu8cH3_uE)
 
 ## Dæmi
 

@@ -1,16 +1,16 @@
 # Öryggi
 
-* [Öryggi & OWASP](1.security.md)
-* [A01 Broken Access Control](a01.broken-access-control.md)
-* [A02 Cryptographic Failures](a02.cryptographic-failurs.md)
-* [A03 Injection](a03.injection.md)
-* [A04 Insecure Design](a04.insecure-design.md)
-* [A05 Security Misconfiguration](a05.security-misconfiguration.md)
-* [A06 Vulnerable and Outdated Components](a06.vulnerable-and-outdated-components.md)
-* [A07 Identification and Authentication Failures](a07.identification-and-authentication-failures.md)
-* [A08 Software and Data Integrity Failures](a08.software-and-data-integrity-failures.md)
-* [A09 Security Logging and Monitoring Failures](a09.security-logging-and-monitoring-failures.md)
-* [A10 Server Side Request Forgery (SSRF)](a10.server-side-request-forgery.md)
+* [Öryggi & OWASP](1.security.md), [vídeó (07:24)](https://youtu.be/lPqu7NcJGvM)
+* [A01 Broken Access Control](a01.broken-access-control.md), [vídeó (07:28)](https://youtu.be/YrBHj_PMBNQ)
+* [A02 Cryptographic Failures](a02.cryptographic-failurs.md), [vídeó (03:19)](https://youtu.be/GL_WaD3xip0)
+* [A03 Injection](a03.injection.md), [vídeó (20:20)](https://youtu.be/tkK1bRXpHvs)
+* [A04 Insecure Design](a04.insecure-design.md), [vídeó (01:45)](https://youtu.be/Ytj158qKEiI)
+* [A05 Security Misconfiguration](a05.security-misconfiguration.md), [vídeó (02:42)](https://youtu.be/5nGH-X82sP0)
+* [A06 Vulnerable and Outdated Components](a06.vulnerable-and-outdated-components.md), [vídeó (02:21)](https://youtu.be/xXcGjAi1fd8)
+* [A07 Identification and Authentication Failures](a07.identification-and-authentication-failures.md), [vídeó (06:29)](https://youtu.be/Hp_CkRwBrJM)
+* [A08 Software and Data Integrity Failures](a08.software-and-data-integrity-failures.md), [vídeó (03:43)](https://youtu.be/SPoDv9ogjqQ)
+* [A09 Security Logging and Monitoring Failures](a09.security-logging-and-monitoring-failures.md), [vídeó (02:36)](https://youtu.be/QYBrVx9Wq48)
+* [A10 Server Side Request Forgery (SSRF)](a10.server-side-request-forgery.md), [vídeó (01:31)](https://youtu.be/i43QRa96hMw)
 
 ## Dæmi
 
