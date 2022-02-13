@@ -59,7 +59,7 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 * [Vika 6, 14.–20. febrúar 2022](vikur/vika-06.md)
   * Vefþjónustur
 * Vika 7, 21.–27. febrúar 2022
-  * Frí
+  * Ekkert nýtt námsefni, engin fyrirlestur
 * [Vika 8, 27. febrúar–6. mars 2022](vikur/vika-08.md)
   * cache, redis; TypeScript
 

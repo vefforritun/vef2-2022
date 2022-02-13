@@ -14,6 +14,7 @@
 
 * [ ] Skil á verkefni 2
 * [ ] Byrja á verkefni 3
+* [ ] Skoða vel öll dæmi tengd vefþjónustum
 
 ## Aukaefni
 

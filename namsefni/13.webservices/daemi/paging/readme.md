@@ -2,12 +2,12 @@
 
 Sett upp með því að útbúa gagnagrunn, setja gögn í `.env` og keyra `createdb.js`.
 
-`createdb.js` útbýr 10.000 færslur í gagnagrunni með [faker](https://github.com/Marak/Faker.js)
+`createdb.js` útbýr 10.000 færslur í gagnagrunni með [faker](https://github.com/faker-js/faker)
 
 ```bash
 npm install
 createdb mock
-cp .env.example # eða afrita á annan hátt
+cp .env.example .env # eða afrita á annan hátt
 node createdb.js
 node app.js
 ```
