@@ -6,9 +6,8 @@
 
 ## Fyrirlestrar
 
-* [Vika 6, partur 1, vídeó ()](https://youtu.be/)
-* [Vika 6, partur 2, vídeó ()](https://youtu.be/)
-* [Vika 6, partur 3, vídeó ()](https://youtu.be/)
+* [Vika 6, partur 1, vídeó (36:09)](https://youtu.be/4d3C7b-MXjc)
+* [Vika 6, partur 2, vídeó (45:28)](https://youtu.be/H_9RkLol3KE)
 
 ## Verkefni
 

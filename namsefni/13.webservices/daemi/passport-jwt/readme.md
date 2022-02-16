@@ -1,6 +1,6 @@
 # Auðkenning með JWT
 
-Til að keyra þarf að setja rétta slóð fyrir `DATABASE_URL `og `JWT_SECRET` í `.env` (sjá `.env.example`) í `.env` og keyra:
+Til að keyra þarf að setja rétta slóð fyrir `DATABASE_URL` og `JWT_SECRET` í `.env` (sjá `.env.example`) í `.env` og keyra:
 
 ```bash
 createdb users
@@ -20,7 +20,7 @@ Eftir það er hægt að senda fyrirspurn á `/admin` með token í `Autherizati
 curl -H "Content-Type: application/json" -d '{"username": "admin", "password": "123"}' http://localhost:3000/login
 {"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNTUxMjIxODA3LCJleHAiOjE1NTEyMjE4Mjd9.N3yIqdhejRKMyNb31rYWrZRVOg-DBew-0E2n1KHdF5o"}
 
-curl -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNTUxMjIxODU3LCJleHAiOjE1NTEyMjE4Nzd9.SVhW21cjpkO9V3Xe4OwxNxVX6_ns40qu7nBcaeUt9tI" http://localhost:3000/admin
+curl -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjQ0ODc3MTUzLCJleHAiOjE2NDQ4NzcxNzN9.TLGzIVkjPtvBKJniNWz2C17X3loS4sE12VgeO5X39Os" http://localhost:3000/admin
 {"data":"top secret"}
 
 # Eftir að token er útrunnin
