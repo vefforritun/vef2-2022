@@ -29,7 +29,7 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp, eða prófa meðfram 
 * [Vika 5, partur 1, vídeó (37:16)](https://youtu.be/Zx6rhGKsaDw)
 * [Vika 5, partur 2, vídeó (43:30)](https://youtu.be/GGfC14_AdFI)
 * [Vika 5, partur 3, vídeó (14:55)](https://youtu.be/ttWHkDnnBhY)
-* [Vefþjónustur](./13.webservices/readme.md) _efni í vinnslu_
+* [Vefþjónustur](./13.webservices/readme.md)
 * [Vika 6, partur 1, vídeó (36:09)](https://youtu.be/4d3C7b-MXjc)
 * [Vika 6, partur 2, vídeó (45:28)](https://youtu.be/H_9RkLol3KE)
 * [cache og redis](./14.cache-redis/readme.md) _efni í vinnslu_

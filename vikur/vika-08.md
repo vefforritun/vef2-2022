@@ -3,7 +3,10 @@
 ## Námsefni
 
 * [cache og redis](../namsefni/14.cache-redis/readme.md)
-* [TypeSccript](../namsefni/15.typescript/readme.md)
+* [React](../namsefni/15.react/readme.md)
+  * React
+  * React components
+  * React events & state
 
 ## Fyrirlestrar
 
@@ -14,6 +17,7 @@
 ## Verkefni
 
 * [ ] Skil á verkefni 3
+* [ ] Byrja á verkefni 4
 
 ## Aukaefni
 

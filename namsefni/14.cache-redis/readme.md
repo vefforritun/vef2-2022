@@ -1,11 +1,9 @@
 # Cache og redis
 
-Þetta efni er í vinnslu.
-
-* [Cache](1.cache.md)
-* [HTTP Cache](2.http-cache.md)
-* [redis](3.redis.md)
-* [redis & node](4.redis-node.md)
+* [Cache](1.cache.md), [vídeó (18:05)](https://www.youtube.com/watch?v=BpuJBRwq_Cs) frá vef2-2021
+* [HTTP Cache](2.http-cache.md) [vídeó (15:11)](https://youtu.be/BpuJBRwq_Cs?t=1085) frá vef2-2021
+* [redis](3.redis.md), [vídeó (10:50)](https://www.youtube.com/watch?v=9l3AOW2cB9U) frá vef2-2021
+* [redis & node](4.redis-node.md), [vídeó (13:02)](https://youtu.be/9l3AOW2cB9U?t=650) frá vef2-2021
 
 ## Dæmi
 
