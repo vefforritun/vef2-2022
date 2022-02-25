@@ -32,5 +32,5 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp, eða prófa meðfram 
 * [Vefþjónustur](./13.webservices/readme.md)
 * [Vika 6, partur 1, vídeó (36:09)](https://youtu.be/4d3C7b-MXjc)
 * [Vika 6, partur 2, vídeó (45:28)](https://youtu.be/H_9RkLol3KE)
-* [cache og redis](./14.cache-redis/readme.md) _efni í vinnslu_
-* [TypeSccript](./15.typescript/readme.md) _efni í vinnslu_
+* [cache og redis](./14.cache-redis/readme.md)
+* [React](./15.react/readme.md)
