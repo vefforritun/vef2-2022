@@ -93,4 +93,6 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 
 ## Aukaverkefni
 
-TBD
+Í boði er að vinna [aukaverkefni](./aukaverkefni.md) til upphækkunar á einkunn.
+
+Nánar um skráningu á Canvas.
