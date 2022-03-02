@@ -34,3 +34,6 @@ Aukaefni er tiltekið sem efni sem skal skoða, setja upp, eða prófa meðfram 
 * [Vika 6, partur 2, vídeó (45:28)](https://youtu.be/H_9RkLol3KE)
 * [cache og redis](./14.cache-redis/readme.md)
 * [React](./15.react/readme.md)
+* [Vika 8, partur 1, vídeó ()](https://youtu.be/la5S_tjf7cE)
+* [Vika 8, partur 2, vídeó (39:01)](https://youtu.be/CD_IiHIEo00)
+* [Vika 8, partur 3, vídeó (31:33)](https://youtu.be/mIHoOR39wpE)

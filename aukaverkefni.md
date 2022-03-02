@@ -1,6 +1,6 @@
 # Vefforritun 2, 2022. Aukaverkefni
 
-[Kynning á verkefni í tíma](https://youtu.be/).
+[Kynning á verkefni í tíma](https://youtu.be/d598IopSn-8).
 
 Aukaverkefnið gefur tækifæri til að bæta við verkefnaeinkunn (og þar sem ekkert lokapróf er: lokaeinkunn). Mögulegt er að bæta allt að 1,5 af 10 við einkunn.
 

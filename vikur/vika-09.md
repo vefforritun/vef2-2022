@@ -6,6 +6,7 @@
   * React lifecycle
   * React ajax og forms
   * React skipulag verkefna
+  * React router
 * [TypeScript](../namsefni/16.typescript/readme.md)
 
 ## Fyrirlestrar

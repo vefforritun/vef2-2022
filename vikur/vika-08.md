@@ -10,9 +10,9 @@
 
 ## Fyrirlestrar
 
-* [Vika 8, partur 1, vídeó ()](https://youtu.be/)
-* [Vika 8, partur 2, vídeó ()](https://youtu.be/)
-* [Vika 8, partur 3, vídeó ()](https://youtu.be/)
+* [Vika 8, partur 1, vídeó ()](https://youtu.be/la5S_tjf7cE)
+* [Vika 8, partur 2, vídeó (39:01)](https://youtu.be/CD_IiHIEo00)
+* [Vika 8, partur 3, vídeó (31:33)](https://youtu.be/mIHoOR39wpE)
 
 ## Verkefni
 
@@ -22,3 +22,5 @@
 ## Aukaefni
 
 Efni sem nefnt var og/eða skoðað í fyrirlestri:
+
+[Vika 8, create react app bull](https://github.com/vefforritun/vef2-2022-vika8)
