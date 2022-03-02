@@ -1,4 +1,4 @@
-# Vika 8, 27. febrúar–6. mars 2022
+# Vika 8, 28. febrúar–6. mars 2022
 
 ## Námsefni
 
