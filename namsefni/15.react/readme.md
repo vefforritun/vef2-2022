@@ -6,6 +6,7 @@
 * [React lifecycle](4.react-lifecycle.md), [vídeó (45:43)](https://www.youtube.com/watch?v=C2ApcYVR6Mc) frá vef2-2021
 * [React ajax og forms](5.react-ajax-forms.md), [vídeó (46:32)](https://www.youtube.com/watch?v=avUfO9sPScs) frá vef2-2021
 * [React skipulag verkefna](6.react-project.md), [vídeó (23:19)](https://www.youtube.com/watch?v=H_qoQma_UHw) frá vef2-2021
+* [React router](7.react-router.md), [vídeó (10:43)](https://www.youtube.com/watch?v=Z_y70KqNaDM) frá vef2-2021
 * [React context](8.react-context.md), [vídeó (22:12)](https://www.youtube.com/watch?v=s4rpLMTbT3k) frá vef2-2021
 * [React flux og redux](9.flux-redux.md), [vídeó (41:34)](https://www.youtube.com/watch?v=7rX3VCjjqOk) frá vef2-2019
   * Ath notar class components en myndum nota [functional components og hooks](https://react-redux.js.org/api/hooks) í dag
