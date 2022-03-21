@@ -9,14 +9,12 @@
 
 ## Fyrirlestrar
 
-* [Vika 10, partur 1, vídeó ()](https://youtu.be/)
-* [Vika 10, partur 2, vídeó ()](https://youtu.be/)
-* [Vika 10, partur 3, vídeó ()](https://youtu.be/)
+Engin fyrirlestur
 
 ## Verkefni vikunnar
 
-* [ ] Skil á verkefni 4
-* [ ] Byrja á verkefni 5
+* [ ] Skil á hópverkefni 1
+* [ ] ~Skil á verkefni 4~
 
 ## Aukaefni
 

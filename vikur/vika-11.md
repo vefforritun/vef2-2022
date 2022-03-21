@@ -2,7 +2,15 @@
 
 ## Námsefni
 
-* [GraphQL](../namsefni/18.graphql/readme.md)
+* [React](../namsefni/15.react/readme.md)
+  * React
+  * React components
+  * React events & state
+  * React lifecycle
+  * React ajax og forms
+  * React skipulag verkefna
+  * React router
+* [TypeScript](../namsefni/16.typescript/readme.md)
 
 ## Fyrirlestrar
 
@@ -14,7 +22,7 @@
 
 * [ ] Byrja að skoða hópverkefni 2
 * [ ] Mynda hóp fyrir hópverkefni 2
-* [ ] Vinna í verkefni 5
+* [ ] Byrja á verkefni 5
 
 ## Aukaefni
 

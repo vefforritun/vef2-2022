@@ -1,16 +1,16 @@
 ---
-title: Fyrirlestur 10.3 — GraphQL
+title: GraphQL
 ---
 
-# Fyrirlestur 10.3 — GraphQL
+## GraphQL
 
-## Vefforritun 2 — HBV403G
+### Vefforritun
 
 ### Ólafur Sverrir Kjartansson, [osk@hi.is](mailto:osk@hi.is)
 
 ---
 
-## GraphQL
+## GraphQL—Graph Query Language
 
 * [GraphQL er Query mál](https://graphql.org/) þróað hjá Facebook kringum 2012
 * Núna þróað áfram af [GraphQL foundation](https://foundation.graphql.org/)
@@ -144,6 +144,7 @@ query luke {
   }
 }
 ```
+
 ```json
 
   "data": {

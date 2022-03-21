@@ -11,9 +11,7 @@
 
 ## Fyrirlestrar
 
-* [Vika 9, partur 1, vídeó ()](https://youtu.be/)
-* [Vika 9, partur 2, vídeó ()](https://youtu.be/)
-* [Vika 9, partur 3, vídeó ()](https://youtu.be/)
+Engin fyrirlestur
 
 ## Verkefni vikunnar
 

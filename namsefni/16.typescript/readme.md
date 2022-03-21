@@ -1,9 +1,7 @@
 # TypeScript
 
-Þetta efni er í vinnslu.
-
-* [TypeScript](1.typescript.md)
-* [TypeScript týpur](2.types.md)
+* [TypeScript](1.typescript.md), [vídeó (19:57)](https://youtu.be/x2eLCs9iWCo) frá vef2-2021
+* [TypeScript týpur](2.types.md), [vídeó (29:02)](https://youtu.be/x2eLCs9iWCo?t=1197) frá vef2-2021
 
 ## Dæmi
 
