@@ -105,7 +105,7 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
   * Skilist 18. mars
 * [Hópverkefni 2](https://github.com/vefforritun/vef2-2022-h2)
   * Sett fyrir 23. mars
-  * Skilist 21. apríl
+  * Skilist 22. apríl
 
 ## Aukaverkefni
 

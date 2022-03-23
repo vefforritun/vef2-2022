@@ -170,6 +170,7 @@ query HeroNameAndFriends($episode: Episode) {
 ```
 
 Variables:
+
 ```json
 {
   "episode": "JEDI"
@@ -219,6 +220,7 @@ query HeroForEpisode($ep: Episode!) {
 ```
 
 Variables:
+
 ```json
 { "ep": "EMPIRE" }
 ```
