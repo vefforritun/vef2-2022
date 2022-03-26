@@ -4,23 +4,23 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfangagnum vefforritun 2
 
 ## Kennsluáætlun
 
-| Vika | Mánudagur   | Námsefni                                | Verkefni                    | Skil           |
-|------|-------------|-----------------------------------------|-----------------------------|----------------|
-| 1    | 10. janúar  | node.js, einingar                       |                             |                |
-| 2    | 17. janúar  | Express, HTTP                           | Verkefni #1                 |                |
-| 3    | 24. janúar  | Heroku; Form                            |                             |                |
-| 4    | 31. janúar  | postgres; cookies & sessions            | Verkefni #2                 | Verkefni #1    |
-| 5    | 7. febrúar  | Notendaumsjón; Öryggi                   | Hópverkefni #1              |                |
-| 6    | 14. febrúar | Vefþjónustur                            | Verkefni #3                 | Verkefni #2    |
-| 7    | 21. febrúar | Engin fyrirlestur á miðvikudagi         |                             |                |
-| 8    | 28. febrúar | cache, redis; Framenda framework, React | Verkefni #4                 | Verkefni #3    |
-| 9    | 7. mars     | React, TypeScript                       |                             |                |
-| 10   | 14. mars    | React, Next.js                          |                             | Hópverkefni #1 |
-| 11   | 21. mars    | React, Next.js; TypeScript              | Verkefni #5, Hópverkefni #2 | Verkefni #4    |
-| 12   | 28. mars    | GraphQL                                 | Verkefni #6                 |                |
-| 13   | 4. apríl    | Annað efni; kynningar á aukaverkefni    |                             | Verkefni #5    |
-| 14   | 11. apríl   | Kynningar á aukaverkefni                |                             | Verkefni #6    |
-| 15   | 18. apríl   | **Páskafrí**                            |                             | Hópverkefni #2 |
+| Vika | Mánudagur   | Námsefni                                | Verkefni                    | Skil                        |
+|------|-------------|-----------------------------------------|-----------------------------|-----------------------------|
+| 1    | 10. janúar  | node.js, einingar                       |                             |                             |
+| 2    | 17. janúar  | Express, HTTP                           | Verkefni #1                 |                             |
+| 3    | 24. janúar  | Heroku; Form                            |                             |                             |
+| 4    | 31. janúar  | postgres; cookies & sessions            | Verkefni #2                 | Verkefni #1                 |
+| 5    | 7. febrúar  | Notendaumsjón; Öryggi                   | Hópverkefni #1              |                             |
+| 6    | 14. febrúar | Vefþjónustur                            | Verkefni #3                 | Verkefni #2                 |
+| 7    | 21. febrúar | Engin fyrirlestur á miðvikudagi         |                             |                             |
+| 8    | 28. febrúar | cache, redis; Framenda framework, React | Verkefni #4                 | Verkefni #3                 |
+| 9    | 7. mars     | React, TypeScript                       |                             |                             |
+| 10   | 14. mars    | React                                   |                             | Hópverkefni #1              |
+| 11   | 21. mars    | React; TypeScript                       | Verkefni #5, Hópverkefni #2 | Verkefni #4                 |
+| 12   | 28. mars    | Next.js; GraphQL                        |                             |                             |
+| 13   | 4. apríl    | Annað efni; kynningar á aukaverkefni    | Verkefni #6                 | Verkefni #5                 |
+| 14   | 11. apríl   | **Páskafrí**                            |                             |                             |
+| 15   | 18. apríl   | Kynningar á aukaverkefni                |                             | Verkefni #6, Hópverkefni #2 |
 
 Nánar er [fjallað um kennsluáætlun í viku 1](vikur/vika-01.md).
 
@@ -65,11 +65,11 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 * [Vika 9, 7–.13 mars 2022](vikur/vika-09.md)
   * React; TypeScript
 * [Vika 10, 14–.20 mars 2022](vikur/vika-10.md)
-  * React; Next.js
+  * React
 * [Vika 11, 21.–.27. mars 2022](vikur/vika-11.md)
-  * React; Next.js; TypeScript
+  * React; TypeScript
 * [Vika 12, 28. mars–3. apríl 2022](vikur/vika-12.md)
-  * GraphQL
+  * Next.js; GraphQL
 * [Vika 13, 4.–10. apríl 2022](vikur/vika-13.md)
 
 ## Verkefni
@@ -112,3 +112,7 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 Í boði er að vinna [aukaverkefni](./aukaverkefni.md) til upphækkunar á einkunn.
 
 Nánar um skráningu á Canvas.
+
+## Lokaeinkunn
+
+Upplýsingar um lokaeinkunn er á Canvas.
