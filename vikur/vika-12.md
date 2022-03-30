@@ -8,9 +8,9 @@
 
 ## Fyrirlestrar
 
-* [Vika 12, partur 1, vídeó ()](https://youtu.be/)
-* [Vika 12, partur 2, vídeó ()](https://youtu.be/)
-* [Vika 12, partur 3, vídeó ()](https://youtu.be/)
+* [Vika 12, partur 1, vídeó (36:03)](https://youtu.be/SU_CCh6hR0E)
+* [Vika 12, partur 2, vídeó (29:36)](https://youtu.be/HwWRt8nIYJ8)
+* [Vika 12, partur 3, vídeó (38:54)](https://youtu.be/PVvZEBiq6hk)
 
 ## Verkefni vikunnar
 
