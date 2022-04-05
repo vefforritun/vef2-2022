@@ -69,8 +69,9 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 * [Vika 11, 21.–.27. mars 2022](vikur/vika-11.md)
   * React; TypeScript
 * [Vika 12, 28. mars–3. apríl 2022](vikur/vika-12.md)
-  * Next.js; GraphQL
+  * Next.js
 * [Vika 13, 4.–10. apríl 2022](vikur/vika-13.md)
+  * GraphQL
 
 ## Verkefni
 
