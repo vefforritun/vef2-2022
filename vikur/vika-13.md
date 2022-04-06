@@ -2,6 +2,5 @@
 
 ## Fyrirlestrar
 
-* [Vika 13, partur 1, vídeó ()](https://youtu.be/)
-* [Vika 13, partur 2, vídeó ()](https://youtu.be/)
-* [Vika 13, partur 3, vídeó ()](https://youtu.be/)
+* [Vika 13, partur 1, vídeó (30:15)](https://youtu.be/XAlnKNvVqkA)
+* [Vika 13, partur 2, vídeó (55:34)](https://youtu.be/kZvzuAJtupI)
